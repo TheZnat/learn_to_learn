@@ -1,0 +1,7 @@
+.footer__column_content_info{
+    margin-bottom: 16px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
