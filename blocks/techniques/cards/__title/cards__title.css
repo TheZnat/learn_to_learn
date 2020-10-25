@@ -1,4 +1,6 @@
 .cards__title{
+    margin: 0;
+    padding: 0;
     text-align: center;
     margin-bottom: 16px;
     line-height: 1.15;

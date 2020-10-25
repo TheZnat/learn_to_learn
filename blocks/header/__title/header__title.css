@@ -5,6 +5,5 @@
     font-weight: bold;
     display: flex;
     align-self: center;
-    position:relative;
-    left: 64px;
+    padding-left: 64px;
 }
