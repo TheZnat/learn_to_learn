@@ -1,2 +1,2 @@
 # learn_to_learn
-![alt text](https://profinavigator.ru/upload/organisation/799/logo/org_1585827432.jpg)
+![alt text](https://i.ibb.co/2Y5TPPS/1.png)
